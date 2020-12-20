@@ -1,0 +1,28 @@
+{
+  "name": "@bgies/edi-lib",
+  "version": "1.0.0",
+  "description": "edi-lib is a collection of javascript functions, variables and procedure supporting the ALL-Javascript project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bgies/edi-lib.git"
+  },
+  "keywords": [
+    "edi",
+    "X12",
+    "ANSII",
+    "library"
+  ],
+  "author": "bgies Enterprises Limited",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bgies/edi-lib/issues"
+  },
+  "homepage": "https://github.com/bgies/edi-lib#readme",
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}
